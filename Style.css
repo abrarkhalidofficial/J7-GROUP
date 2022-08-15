@@ -291,6 +291,8 @@ padding-right: 8em; */
   background-color: #f9f9f9;
   padding-bottom: 8em;
   display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
  
 }
 .about__us_img{
@@ -412,7 +414,6 @@ padding-right: 8em; */
 .span__img__about__two{
   margin-top: 10em;
    /* padding: 0px 6em; */
-   padding-left: 8em;
-
+   padding-left: 8em
   
 }
